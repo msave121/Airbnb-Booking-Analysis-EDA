@@ -1,12 +1,9 @@
 # Capstone-Project - Airbnb-Booking-Analysis-EDA
 
-### Project Name - **Airbnb-Booking-Analysis-EDA**
-
-### Project Type - **EDA**
-
-### Contribution - **Team**
-
-### Team Members : **Manasvi Save and Sameer Rudani**
+#### Project Name - **Airbnb-Booking-Analysis-EDA**
+#### Project Type - **EDA**
+#### Contribution - **Team**
+#### Team Members : **Manasvi Save and Sameer Rudani**
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
 
